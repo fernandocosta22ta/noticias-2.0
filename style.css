@@ -67,3 +67,36 @@ body {
     letter-spacing: 0.275rem;
     line-height: 1.5rem;
 }
+
+.segunda-secao {
+    background-color: #00001a;
+    margin-bottom: 4rem;
+    padding: 1.5rem 1.1rem;
+}
+
+.margin-border-padding {
+    border-bottom: 1px solid #5e607a;
+    margin-bottom: 1.75rem;
+    padding-bottom: 1.75rem;
+}
+
+.segunda-secao h2 {
+    color: #e9aa52;
+    font-size: 2rem;
+    line-height: 100%;
+    margin-bottom: 2.2rem;
+}
+
+.segunda-secao h3 {
+    color: #fffdfa;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.segunda-secao p {
+    color: #c5c6ce;
+    font-size: 0.9375rem;
+    line-height: 1.625rem;
+}
